@@ -12,7 +12,7 @@ github_repo: "https://github.com/Andehou/Andehou.github.io" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Do not go gentle into that good night. "
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/Andehou.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
